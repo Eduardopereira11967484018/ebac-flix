@@ -6,13 +6,13 @@ const Footer = () => {
     <footer className="text-center font-light py-4 text-sm">
       <p>
         &copy; {new Date().getFullYear()} - Cinedex | Todos os direitos
-        reservados.
+        reservados Eduardo.
       </p>
       <p>
         Site feito utilizando a{" "}
         <Link className="transition-all hover:text-cinedex-darkPink" href="https://www.themoviedb.org/?language=pt" target="_blank">
           {" "}
-          Eduardo.
+          TMDB API
         </Link>
       </p>
     </footer>
