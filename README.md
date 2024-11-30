@@ -1,10 +1,5 @@
 
 # Cinedex - Seu catálogo definitivo de filmes e series! 🎥
-<div align="center">
-  <img src="https://github.com/gui-bus/Cinedex/blob/main/github/desktop_home_light.png?raw=true" alt="Desktop Homepage" width="700" />
-</div>
-
-## Cinedex 🎥
 
 ***A [Cinedex](https://cinedex.vercel.app/discover/now_playing) é uma plataforma online de catálogo de filmes e series, desenvolvido com React, Typescript, Next.js, NextUI, Tailwind CSS e Vercel.*** O projeto conta com uma ampla gama de opções de filmes separados por categorias e gêneros, todos fornecidos pela API da ***[TheMovieDB](https://www.themoviedb.org/?language=pt)***.
 
@@ -81,29 +76,4 @@ Gostaria de contribuir para o projeto? ***Fico muito grato pelo interesse!***
 - Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais para enviar seu feedback, sugestões ou comentários sobre o projeto.
 
 ## Creditos e agradecimentos :handshake:
-- Todas as imagens e informaçoes dos filmes foram obtidas da API da ***[TheMovieDB](https://www.themoviedb.org/?language=pt)***
-
-## Redes sociais para contato! :speech_balloon:
-
-
-<a href="https://www.instagram.com/guibus_dev/" target="_blank">
-	<img alt="Instagram" height="60" width="60"  src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg"> 
-</a>
-<a href="https://www.linkedin.com/in/gui-bus/" target="_blank">
-	<img alt="LinkedIn" height="60" width="60"  src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"> 
-</a>
-<a href="mailto:guibus.dev@gmail.com" target="_blank">
-	<img alt="Gmail" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"> 
-</a>
-
-
-## Precisa de uma pagina personalizada para o seu negócio? :rocket:
-
-- [x] Se você gostou do projeto da ***Cinedex*** e está interessado em ter uma página para o seu negócio, entre em contato! Estou disponível para desenvolver sites personalizados e adaptados às necessidades da sua empresa. <br> ***Vamos transformar sua visão em realidade!*** :star: 
-
--  Entre em contato através das minhas redes sociais ou envie-me um e-mail para [guibus.dev@gmail.com](mailto:guibus.dev@gmail.com).
-
-
-<div align="center">
-  <img src="https://github.com/gui-bus/Cinedex/blob/main/public/cinedex.png?raw=true" alt="Cinedex" width="400" />
-</div>
+- Todas as imagens e informaçoes dos filmes foram obtidas da API da ***[TheMovieDB](https://www.themoviedb.org/?language=pt)*
